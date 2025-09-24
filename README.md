@@ -7,11 +7,6 @@
 
 ---
 
-### 📊 My GitHub Stats
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenlcz&show_icons=true&theme=radical)
-
----
-
 ### 🚀 Featured Projects
 
 - **ENISA Report**: defensive analysis in Microsoft 365 and Azure  
