@@ -8,7 +8,7 @@
 ---
 
 ### 📊 My GitHub Stats
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=dark)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinlcz&show_icons=true&theme=radical)
 
 ---
 
