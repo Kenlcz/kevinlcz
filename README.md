@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kevinlcz
+# 👋 Hi, I'm Kenlcz
 
 - 🔐 Passionate about cybersecurity (Blue Team & Red Team)  
 - 📚 Currently learning SOC, SIEM (Splunk, Sentinel) and Pentesting  
@@ -8,7 +8,7 @@
 ---
 
 ### 📊 My GitHub Stats
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinlcz&show_icons=true&theme=radical)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenlcz&show_icons=true&theme=radical)
 
 ---
 
